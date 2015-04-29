@@ -33,7 +33,7 @@ $(document).ready(function(){
 
 </script>
 
-<a href="javascript:hide();">click me to hide</a>
+<a href="javascript:();">click me to hide</a>
 
 </div>
 </body>
